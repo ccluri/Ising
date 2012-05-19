@@ -1,0 +1,29 @@
+* Ising models
+  Here in are the C codes for ising model and its variants. 
+  
+  These were part of the project I did under Dr. Raghunath Ratabole and Dr. Toby Joseph of BITS Pilani-Goa (2007 to 2008)
+
+  The following is the chronological order of the progress of work
+
+  These codes are available under [[http://www.gnu.org/licenses/gpl.html][GNU GPL (3 or later)]]
+
+** 2D Ising model 
+   A simple ising model. outputs a .dat file with the data. A presentation and report are also included.
+   
+   By: Angad and Chaitanya
+
+** 3 state Potts model
+   A small variation to the ising model, wherein each element can take 3 states instead of 2. A presentation and report are also included
+   
+   By: Angad and Chaitanya
+
+** Ising MPI 
+   This was primarily written as to enhance the initial code to run parallely. A report is included.
+
+   By: Aditya and Chaitanya
+
+** Latice Guage model
+   The simple ising model was then coded to changed to a lattice guage model. A report is included.
+
+   By: Chaitanya and Ravi
+
