@@ -1,4 +1,7 @@
 * Ising models
+
+  Ising model is a mathematical model for second order phase transitions from paramagnetic to ferromagnetic. 
+
   Here in are the C codes for ising model and its variants. 
   
   These were part of the project I did under Dr. Raghunath Ratabole and Dr. Toby Joseph of BITS Pilani-Goa (2007 to 2008)
@@ -6,6 +9,8 @@
   The following is the chronological order of the progress of work
 
   These codes are available under [[http://www.gnu.org/licenses/gpl.html][GNU GPL (3 or later)]]
+
+  Also the code for random number generator is included 'rngs.c'
 
 ** 2D Ising model 
    A simple ising model. outputs a .dat file with the data. A presentation and report are also included.
@@ -27,3 +32,7 @@
 
    By: Chaitanya and Ravi
 
+** Additional information
+   Example of first order phase transition: Consider heating of an ice cube. The specific heat of ice reaches infinity at the 0 deg C due to latent heat.
+
+   What are second order phase transitions? - characterized by a divergent susceptibility, an infinite correlation length, and a power-law decay of correlations near criticality.
